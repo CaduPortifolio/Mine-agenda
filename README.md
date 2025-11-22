@@ -7,5 +7,6 @@ São duas páginas, a prrimeira sendo de listagem e a segunda sendo de formulár
 
 Por utilizar Angular é necessário dar o comando npm install e gerar serviços com o comando ng g c s.
 
-É necessário criar o arquivo environments
+É necessário criar o arquivo environments.
+
 
